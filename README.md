@@ -1,4 +1,4 @@
 # git-training
 Git Training
 
-Todo borrado 2
+La feature 1 ha cambiado este fichero
